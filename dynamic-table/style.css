@@ -89,7 +89,6 @@ table th{
 }
 .deleteBtn:hover{
     background-color: #9d0208;
-    /* border: #9d0208; */
     color: white;
     cursor: pointer;
 }
